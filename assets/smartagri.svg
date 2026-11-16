@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="248" viewBox="0 0 520 248" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">SmartAgri</title><desc id="desc">Agricultural management for farms, plots and team assignments. Stack: Spring Boot / Angular / PostgreSQL / Keycloak</desc>
+<rect x=".5" y=".5" width="519" height="247" rx="16" fill="#101A28" stroke="#303E50"/>
+<text x="26" y="34" fill="#55E6C1" font-family="Consolas,monospace" font-size="11" letter-spacing="2">01 / AGRICULTURE</text>
+<text x="25" y="83" fill="#F0F6FC" font-family="Segoe UI,Arial,sans-serif" font-size="31" font-weight="650">SmartAgri</text>
+<g transform="translate(413,55)" stroke="#55E6C1" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M29 47V22M29 32C12 34 8 24 8 14C21 13 29 19 29 32ZM29 22C29 9 39 4 51 6C51 19 42 25 29 22Z"/><path d="M10 47H49"/></g>
+<text x="26" y="124" fill="#AEC2D5" font-family="Segoe UI,Arial,sans-serif" font-size="15">Agricultural management for farms,</text>
+<text x="26" y="147" fill="#AEC2D5" font-family="Segoe UI,Arial,sans-serif" font-size="15">plots and team assignments.</text>
+<path d="M26 175H494" stroke="#2A3B4E"/>
+<text x="26" y="202" fill="#8FA8BD" font-family="Consolas,monospace" font-size="11">Spring Boot / Angular / PostgreSQL / Keycloak</text>
+<text x="26" y="227" fill="#55E6C1" font-family="Segoe UI,Arial,sans-serif" font-size="12">Explore repository</text>
+<path d="M474 218H492M487 213L492 218L487 223" stroke="#55E6C1" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="248" viewBox="0 0 520 248" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">FitConnect</title><desc id="desc">A fitness application with a dedicated frontend, backend and admin interface. Stack: Spring Boot / Angular / MySQL</desc>
+<rect x=".5" y=".5" width="519" height="247" rx="16" fill="#101A28" stroke="#303E50"/>
+<text x="26" y="34" fill="#73B8FF" font-family="Consolas,monospace" font-size="11" letter-spacing="2">02 / FITNESS</text>
+<text x="25" y="83" fill="#F0F6FC" font-family="Segoe UI,Arial,sans-serif" font-size="31" font-weight="650">FitConnect</text>
+<g transform="translate(413,55)" stroke="#73B8FF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M19 16L43 40M11 20L23 8M39 48L51 36M7 16L19 4M43 52L55 40"/></g>
+<text x="26" y="124" fill="#AEC2D5" font-family="Segoe UI,Arial,sans-serif" font-size="15">A fitness application with a dedicated</text>
+<text x="26" y="147" fill="#AEC2D5" font-family="Segoe UI,Arial,sans-serif" font-size="15">frontend, backend and admin interface.</text>
+<path d="M26 175H494" stroke="#2A3B4E"/>
+<text x="26" y="202" fill="#8FA8BD" font-family="Consolas,monospace" font-size="11">Spring Boot / Angular / MySQL</text>
+<text x="26" y="227" fill="#73B8FF" font-family="Segoe UI,Arial,sans-serif" font-size="12">Explore repository</text>
+<path d="M474 218H492M487 213L492 218L487 223" stroke="#73B8FF" stroke-width="1.5" stroke-linecap="round"/>
+</svg>
