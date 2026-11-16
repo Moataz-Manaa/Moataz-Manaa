@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="360" viewBox="0 0 1100 360" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Moataz Manaa — Full-stack developer</title>
+<desc id="desc">Building useful software, from interface to API. Java, Spring Boot, Angular and TypeScript.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1100" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#0B1728"/><stop offset="1" stop-color="#0D1117"/></linearGradient>
+ <linearGradient id="accent"><stop stop-color="#55E6C1"/><stop offset="1" stop-color="#73B8FF"/></linearGradient>
+ <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" stroke="#27384B" stroke-width=".6"/></pattern>
+ <clipPath id="bounds"><rect x="1" y="1" width="1098" height="358" rx="20"/></clipPath>
+</defs>
+<style>
+ .packet{animation:travel 7s linear infinite}.packet2{animation:travel 7s 3.5s linear infinite}.cursor{animation:blink 1.8s steps(2,end) infinite}
+ @keyframes travel{0%{transform:translateX(0);opacity:0}12%,80%{opacity:1}100%{transform:translateX(190px);opacity:0}}
+ @keyframes blink{0%,45%{opacity:1}50%,100%{opacity:0}}
+ @media(prefers-reduced-motion:reduce){.packet,.packet2,.cursor{animation:none}}
+</style>
+<g clip-path="url(#bounds)">
+ <rect width="1100" height="360" fill="url(#bg)"/>
+ <rect x="660" width="440" height="360" fill="url(#grid)" opacity=".48"/>
+ <path d="M640 0L535 360" stroke="#233448"/>
+ <circle cx="1060" cy="36" r="162" stroke="#284057" opacity=".5"/>
+ <circle cx="1060" cy="36" r="118" stroke="#284057" opacity=".5"/>
+ <rect x="44" y="43" width="32" height="3" rx="1.5" fill="url(#accent)"/>
+ <text x="88" y="49" fill="#8FA8BD" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="3">MOATAZ-MANAA / GITHUB</text>
+ <text x="42" y="124" fill="#F0F6FC" font-family="Segoe UI,Arial,sans-serif" font-size="55" font-weight="700" letter-spacing="-2">Moataz Manaa<tspan fill="#55E6C1">.</tspan></text>
+ <text x="44" y="165" fill="#B2C5D8" font-family="Segoe UI,Arial,sans-serif" font-size="22">Full-stack developer</text>
+ <text x="44" y="217" fill="#E3ECF5" font-family="Segoe UI,Arial,sans-serif" font-size="18">Building useful software,</text>
+ <text x="44" y="245" fill="#E3ECF5" font-family="Segoe UI,Arial,sans-serif" font-size="18">from interface to API.</text>
+ <text x="44" y="314" fill="#8FA8BD" font-family="Consolas,monospace" font-size="12" letter-spacing="1">JAVA / SPRING BOOT / ANGULAR / TYPESCRIPT</text>
+ <rect x="686" y="79" width="364" height="205" rx="12" fill="#111C2B" stroke="#324458"/>
+ <path d="M687 117H1049" stroke="#324458"/>
+ <circle cx="706" cy="99" r="4" fill="#55E6C1"/><circle cx="721" cy="99" r="4" fill="#506078"/><circle cx="736" cy="99" r="4" fill="#506078"/>
+ <text x="1019" y="103" text-anchor="end" fill="#8FA8BD" font-family="Consolas,monospace" font-size="11">developer.ts</text>
+ <g font-family="Consolas,monospace" font-size="14">
+  <text x="708" y="151" fill="#B89CFF">const <tspan fill="#E3ECF5">developer = {</tspan></text>
+  <text x="724" y="179" fill="#8FA8BD">  focus: <tspan fill="#55E6C1">"full-stack"</tspan><tspan fill="#E3ECF5">,</tspan></text>
+  <text x="724" y="207" fill="#8FA8BD">  approach: <tspan fill="#55E6C1">"keep it clear"</tspan></text>
+  <text x="708" y="235" fill="#E3ECF5">};</text>
+ </g>
+ <rect class="cursor" x="735" y="222" width="7" height="16" fill="#55E6C1"/>
+ <path d="M764 311H987" stroke="#324458" stroke-width="2"/>
+ <circle cx="764" cy="311" r="5" fill="#55E6C1"/><circle cx="987" cy="311" r="5" fill="#73B8FF"/>
+ <circle class="packet" cx="775" cy="311" r="3" fill="#55E6C1"/><circle class="packet2" cx="775" cy="311" r="3" fill="#73B8FF"/>
+ <text x="722" y="333" fill="#8FA8BD" font-family="Consolas,monospace" font-size="10">INTERFACE</text>
+ <text x="973" y="333" fill="#8FA8BD" font-family="Consolas,monospace" font-size="10">API</text>
+</g>
+<rect x=".5" y=".5" width="1099" height="359" rx="20" stroke="#303E50"/>
+</svg>
