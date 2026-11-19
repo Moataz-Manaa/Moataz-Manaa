@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="250" viewBox="0 0 1100 250" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Tempo — time tracking for individuals and teams</title>
+<desc id="desc">Shared projects and tasks, private timers and reports, and CSV export. React, Vite, Tailwind CSS, Node.js, Express and MongoDB.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1100" y2="250" gradientUnits="userSpaceOnUse"><stop stop-color="#122333"/><stop offset="1" stop-color="#101A28"/></linearGradient></defs>
+<rect x=".5" y=".5" width="1099" height="249" rx="16" fill="url(#bg)" stroke="#324458"/>
+<rect x="28" y="28" width="4" height="18" rx="2" fill="#55E6C1"/>
+<text x="44" y="42" fill="#55E6C1" font-family="Consolas,monospace" font-size="13" letter-spacing="2">FEATURED / PRODUCTIVITY</text>
+<text x="28" y="105" fill="#F0F6FC" font-family="Segoe UI,Arial,sans-serif" font-size="52" font-weight="700" letter-spacing="-1">Tempo<tspan fill="#55E6C1">.</tspan></text>
+<text x="30" y="141" fill="#AEC2D5" font-family="Segoe UI,Arial,sans-serif" font-size="21">Shared projects. Private time tracking.</text>
+<text x="30" y="172" fill="#AEC2D5" font-family="Segoe UI,Arial,sans-serif" font-size="17">Tasks, timers, reports and CSV export for individuals and teams.</text>
+<path d="M30 191H1070" stroke="#324458"/>
+<text x="30" y="222" fill="#8FA8BD" font-family="Consolas,monospace" font-size="14">React / Vite / Tailwind CSS / Node.js / Express / MongoDB</text>
+<text x="1070" y="222" text-anchor="end" fill="#55E6C1" font-family="Segoe UI,Arial,sans-serif" font-size="15">Explore repository ↗</text>
+<g transform="translate(945,59)" stroke="#55E6C1" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="43" cy="52" r="39"/><path d="M43 13V1M31 1H55M72 22L80 14M43 52V30M43 52L59 62"/><circle cx="43" cy="52" r="3" fill="#55E6C1"/></g>
+</svg>
