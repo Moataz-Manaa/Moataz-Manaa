@@ -11,13 +11,19 @@
 
 <h2>Hi, I'm Moataz.</h2>
 
-<p>I build full-stack applications with <strong>Java, Spring Boot and Angular</strong>. My projects connect practical workflows with clear interfaces, structured APIs and role-based access.</p>
+<p>I build full-stack applications with <strong>Java, Spring Boot, Angular, React and Node.js</strong>. My projects connect practical workflows with clear interfaces, structured APIs and role-based access.</p>
 
-<p>Explore the code below—from agricultural management to fitness applications.</p>
+<p>Explore the code below—from time tracking and team productivity to agricultural management and fitness applications.</p>
 
 <h2 id="selected-work">Selected work</h2>
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/Moataz-Manaa/time-tracking"><img src="./assets/tempo.svg" width="100%" alt="Tempo — time tracking for individuals and teams. React, Vite, Tailwind CSS, Node.js, Express and MongoDB. Explore repository." /></a>
+      <p><a href="https://github.com/Moataz-Manaa/time-tracking">Source code ↗</a> · <a href="https://github.com/Moataz-Manaa/time-tracking#readme">Setup and documentation</a> · <a href="https://github.com/Moataz-Manaa/time-tracking/blob/main/docs/ARCHITECTURE.md">Architecture</a></p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Moataz-Manaa/smartAgri"><img src="./assets/smartagri.svg" width="100%" alt="SmartAgri: agricultural management. Spring Boot, Angular, PostgreSQL and Keycloak. Explore repository." /></a>
@@ -34,15 +40,29 @@
 
 <p><img src="./assets/stack.svg" width="100%" alt="Java · Spring Boot · Angular · TypeScript · PostgreSQL · MySQL · Keycloak · Tailwind CSS" /></p>
 
+<p><code>React</code> · <code>JavaScript</code> · <code>Node.js</code> · <code>Express</code> · <code>MongoDB</code> · <code>Vite</code></p>
+
 <table>
-  <tr><td><strong>Interfaces</strong></td><td>Angular, TypeScript, Tailwind CSS</td></tr>
-  <tr><td><strong>APIs &amp; data</strong></td><td>Java, Spring Boot, PostgreSQL, MySQL</td></tr>
-  <tr><td><strong>Identity &amp; access</strong></td><td>Keycloak, role-based application workflows</td></tr>
+  <tr><td><strong>Interfaces</strong></td><td>Angular, React, TypeScript, JavaScript, Tailwind CSS, Vite</td></tr>
+  <tr><td><strong>APIs &amp; data</strong></td><td>Java, Spring Boot, Node.js, Express, PostgreSQL, MySQL, MongoDB</td></tr>
+  <tr><td><strong>Identity &amp; access</strong></td><td>Keycloak, session-based authentication, role-based application workflows</td></tr>
 </table>
 
 <h2 id="behind-the-projects">Behind the projects</h2>
 
 <p>Open a section to take a closer look.</p>
+
+<details>
+  <summary><strong>Featured / Inside Tempo</strong></summary>
+  <br />
+  <p>A time tracker for individuals and teams, built with React, Vite, Tailwind CSS, Express and MongoDB. Projects and tasks can be shared with teammates while each account keeps its time entries, running timer and reports private.</p>
+  <ul>
+    <li><strong>Team workflows:</strong> project membership, task assignments, priorities, due dates and combined filters.</li>
+    <li><strong>Time tracking:</strong> one running timer per account, timer restoration after refresh, and manual entry creation and editing.</li>
+    <li><strong>Reports:</strong> date-range totals and breakdowns by project or task, with CSV export.</li>
+    <li><strong>Explore:</strong> <a href="https://github.com/Moataz-Manaa/time-tracking#quick-start">local setup</a>, <a href="https://github.com/Moataz-Manaa/time-tracking/blob/main/docs/ARCHITECTURE.md">architecture</a> and <a href="https://github.com/Moataz-Manaa/time-tracking#api">API documentation</a>.</li>
+  </ul>
+</details>
 
 <details>
   <summary><strong>01 / Inside SmartAgri</strong></summary>
