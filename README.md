@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Moataz Manaa — Full-stack developer. Building useful software, from interface to API." />
+  <img src="https://github.com/Moataz-Manaa/Moataz-Manaa/raw/866bf5baad2186169bde8a1bb425afc96eb00cac/assets/header.svg" width="100%" alt="Moataz Manaa — Software engineer. DevOps and cloud on AWS." />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 <h2>Hi, I'm Moataz.</h2>
 
-<p>I build full-stack applications with <strong>Java, Spring Boot, Angular, React and Node.js</strong>. My projects connect practical workflows with clear interfaces, structured APIs and role-based access.</p>
+<p>I’m a <strong>software engineer</strong> focused on <strong>DevOps and cloud on AWS</strong>. I build full-stack applications with <strong>Java, Spring Boot, Angular, React and Node.js</strong>. My projects connect practical workflows with clear interfaces, structured APIs and role-based access.</p>
 
 <p>Explore the code below—from time tracking and team productivity to agricultural management and fitness applications.</p>
 
@@ -43,6 +43,7 @@
 <table>
   <tr><td><strong>Interfaces</strong></td><td>Angular, React, TypeScript, JavaScript, Tailwind CSS, Vite</td></tr>
   <tr><td><strong>APIs &amp; data</strong></td><td>Java, Spring Boot, Node.js, Express, PostgreSQL, MySQL, MongoDB</td></tr>
+  <tr><td><strong>DevOps &amp; cloud</strong></td><td>Amazon Web Services (AWS)</td></tr>
   <tr><td><strong>Identity &amp; access</strong></td><td>Keycloak, session-based authentication, role-based application workflows</td></tr>
 </table>
 
