@@ -17,21 +17,19 @@
 
 <h2 id="selected-work">Selected work</h2>
 
-<table>
+<table width="100%">
   <tr>
-    <td colspan="2" valign="top">
-      <a href="https://github.com/Moataz-Manaa/time-tracking"><img src="./assets/tempo.svg" width="100%" alt="Tempo — time tracking for individuals and teams. React, Vite, Tailwind CSS, Node.js, Express and MongoDB. Explore repository." /></a>
-      <p><a href="https://github.com/Moataz-Manaa/time-tracking">Source code ↗</a> · <a href="https://github.com/Moataz-Manaa/time-tracking#readme">Setup and documentation</a> · <a href="https://github.com/Moataz-Manaa/time-tracking/blob/main/docs/ARCHITECTURE.md">Architecture</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://github.com/Moataz-Manaa/smartAgri"><img src="./assets/smartagri.svg" width="100%" alt="SmartAgri: agricultural management. Spring Boot, Angular, PostgreSQL and Keycloak. Explore repository." /></a>
-      <p><a href="https://github.com/Moataz-Manaa/smartAgri">Source code ↗</a> · <a href="https://github.com/Moataz-Manaa/smartAgri#readme">Project documentation</a></p>
+      <p><a href="https://github.com/Moataz-Manaa/smartAgri">Code ↗</a> · <a href="https://github.com/Moataz-Manaa/smartAgri#readme">Docs</a></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://github.com/Moataz-Manaa/fitConnect"><img src="./assets/fitconnect.svg" width="100%" alt="FitConnect: fitness application. Spring Boot, Angular and MySQL. Explore repository." /></a>
-      <p><a href="https://github.com/Moataz-Manaa/fitConnect">Source code ↗</a> · <a href="https://github.com/Moataz-Manaa/fitConnect/tree/master/frontend">Frontend</a> · <a href="https://github.com/Moataz-Manaa/fitConnect/tree/master/backend">Backend</a></p>
+      <p><a href="https://github.com/Moataz-Manaa/fitConnect">Code ↗</a> · <a href="https://github.com/Moataz-Manaa/fitConnect/tree/master/frontend">Frontend</a> · <a href="https://github.com/Moataz-Manaa/fitConnect/tree/master/backend">Backend</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Moataz-Manaa/time-tracking"><img src="./assets/tempo.svg" width="100%" alt="Tempo — time tracking for individuals and teams. React, Vite, Tailwind CSS, Node.js, Express and MongoDB. Explore repository." /></a>
+      <p><a href="https://github.com/Moataz-Manaa/time-tracking">Code ↗</a> · <a href="https://github.com/Moataz-Manaa/time-tracking#readme">Setup</a> · <a href="https://github.com/Moataz-Manaa/time-tracking/blob/main/docs/ARCHITECTURE.md">Architecture</a></p>
     </td>
   </tr>
 </table>
@@ -53,18 +51,6 @@
 <p>Open a section to take a closer look.</p>
 
 <details>
-  <summary><strong>Featured / Inside Tempo</strong></summary>
-  <br />
-  <p>A time tracker for individuals and teams, built with React, Vite, Tailwind CSS, Express and MongoDB. Projects and tasks can be shared with teammates while each account keeps its time entries, running timer and reports private.</p>
-  <ul>
-    <li><strong>Team workflows:</strong> project membership, task assignments, priorities, due dates and combined filters.</li>
-    <li><strong>Time tracking:</strong> one running timer per account, timer restoration after refresh, and manual entry creation and editing.</li>
-    <li><strong>Reports:</strong> date-range totals and breakdowns by project or task, with CSV export.</li>
-    <li><strong>Explore:</strong> <a href="https://github.com/Moataz-Manaa/time-tracking#quick-start">local setup</a>, <a href="https://github.com/Moataz-Manaa/time-tracking/blob/main/docs/ARCHITECTURE.md">architecture</a> and <a href="https://github.com/Moataz-Manaa/time-tracking#api">API documentation</a>.</li>
-  </ul>
-</details>
-
-<details>
   <summary><strong>01 / Inside SmartAgri</strong></summary>
   <br />
   <p>A management application for a company with multiple farms and plots. The repository brings together an Angular interface, a Spring Boot API, PostgreSQL data storage and Keycloak authentication.</p>
@@ -83,6 +69,18 @@
     <li><strong>Interface:</strong> Angular with calendar and charting dependencies.</li>
     <li><strong>API:</strong> Java and Spring Boot with JPA, mail and WebSocket dependencies.</li>
     <li><strong>Explore:</strong> <a href="https://github.com/Moataz-Manaa/fitConnect/tree/master/admin">admin application</a> and <a href="https://github.com/Moataz-Manaa/fitConnect/tree/master/backend">backend source</a>.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>03 / Inside Tempo</strong></summary>
+  <br />
+  <p>A time tracker for individuals and teams, built with React, Vite, Tailwind CSS, Express and MongoDB. Projects and tasks can be shared with teammates while each account keeps its time entries, running timer and reports private.</p>
+  <ul>
+    <li><strong>Team workflows:</strong> project membership, task assignments, priorities, due dates and combined filters.</li>
+    <li><strong>Time tracking:</strong> one running timer per account, timer restoration after refresh, and manual entry creation and editing.</li>
+    <li><strong>Reports:</strong> date-range totals and breakdowns by project or task, with CSV export.</li>
+    <li><strong>Explore:</strong> <a href="https://github.com/Moataz-Manaa/time-tracking#quick-start">local setup</a>, <a href="https://github.com/Moataz-Manaa/time-tracking/blob/main/docs/ARCHITECTURE.md">architecture</a> and <a href="https://github.com/Moataz-Manaa/time-tracking#api">API documentation</a>.</li>
   </ul>
 </details>
 
