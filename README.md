@@ -28,7 +28,7 @@
       <p><a href="https://github.com/Moataz-Manaa/fitConnect">Code ↗</a> · <a href="https://github.com/Moataz-Manaa/fitConnect/tree/master/frontend">Frontend</a> · <a href="https://github.com/Moataz-Manaa/fitConnect/tree/master/backend">Backend</a></p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/Moataz-Manaa/time-tracking"><img src="./assets/tempo.svg" width="100%" alt="Tempo — time tracking for individuals and teams. React, Vite, Tailwind CSS, Node.js, Express and MongoDB. Explore repository." /></a>
+      <a href="https://github.com/Moataz-Manaa/time-tracking"><img src="./assets/tempo.svg?rev=203714f" width="100%" alt="Tempo — time tracking for individuals and teams. React, Vite, Tailwind CSS, Node.js, Express and MongoDB. Explore repository." /></a>
       <p><a href="https://github.com/Moataz-Manaa/time-tracking">Code ↗</a> · <a href="https://github.com/Moataz-Manaa/time-tracking#readme">Setup</a> · <a href="https://github.com/Moataz-Manaa/time-tracking/blob/main/docs/ARCHITECTURE.md">Architecture</a></p>
     </td>
   </tr>
